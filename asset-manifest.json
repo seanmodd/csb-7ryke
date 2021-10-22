@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://seanmodd.github.io/csb-7ryke/static/js/main.03e2ad2c.chunk.js",
+    "main.js.map": "https://seanmodd.github.io/csb-7ryke/static/js/main.03e2ad2c.chunk.js.map",
+    "runtime-main.js": "https://seanmodd.github.io/csb-7ryke/static/js/runtime-main.d5aba7d4.js",
+    "runtime-main.js.map": "https://seanmodd.github.io/csb-7ryke/static/js/runtime-main.d5aba7d4.js.map",
+    "static/js/2.28bc19fb.chunk.js": "https://seanmodd.github.io/csb-7ryke/static/js/2.28bc19fb.chunk.js",
+    "static/js/2.28bc19fb.chunk.js.map": "https://seanmodd.github.io/csb-7ryke/static/js/2.28bc19fb.chunk.js.map",
+    "index.html": "https://seanmodd.github.io/csb-7ryke/index.html",
+    "precache-manifest.b0023e187a3b6a59cb1bc4a114479121.js": "https://seanmodd.github.io/csb-7ryke/precache-manifest.b0023e187a3b6a59cb1bc4a114479121.js",
+    "service-worker.js": "https://seanmodd.github.io/csb-7ryke/service-worker.js",
+    "static/js/2.28bc19fb.chunk.js.LICENSE.txt": "https://seanmodd.github.io/csb-7ryke/static/js/2.28bc19fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5aba7d4.js",
+    "static/js/2.28bc19fb.chunk.js",
+    "static/js/main.03e2ad2c.chunk.js"
+  ]
+}
